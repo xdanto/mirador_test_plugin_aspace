@@ -1,4 +1,9 @@
 # Mirador Viewer for ArchivesSpace
 
-Compatible with [version]
-Tested with [version(s)]
+Pulls IIIF manifests from ContentDM (without Kalthura)
+
+Compatible with ArchivesSpace 4.2
+
+Tested with ArchivesSpace 4.2
+
+Credit: Kevin Clair, Eberly Family Special Collections Library
