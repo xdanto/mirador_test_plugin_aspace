@@ -6,4 +6,4 @@ Compatible with ArchivesSpace 4.2
 
 Tested with ArchivesSpace 4.2
 
-Credit: Kevin Clair, Eberly Family Special Collections Library
+Credit: Adapted from a plugin built by Kevin Clair, Eberly Family Special Collections Library
